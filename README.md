@@ -1,4 +1,6 @@
-[![MasterHead](https://drive.google.com/file/d/1LQ3bc51JSjSAHfyTS2jNTA1NzLSEM1Lv/view?usp=share_link)](https://rishavchanda.io)
+<!-- [![MasterHead](https://drive.google.com/file/d/1LQ3bc51JSjSAHfyTS2jNTA1NzLSEM1Lv/view?usp=share_link)](https://rishavchanda.io)
+ -->
+
 
 
 <h1 align="center">Hi 👋, I'm ManFromEarth</h1>
