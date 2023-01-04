@@ -2,13 +2,6 @@
 
 
 
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm ManFromEarth</h1>
 <h3 align="center">A programmer who loves to code and I like to contribute on openSource projects</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
