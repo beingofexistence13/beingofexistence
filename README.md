@@ -4,10 +4,12 @@
 ![xxxtentacion-anime-cartoon-under-night-sky-or359muefmjjuqxe](https://user-images.githubusercontent.com/103621682/211105830-96d89ead-8fc6-41dd-a79c-39c4d1087c9b.gif)
 ![naruto-shippuden-4k-anime-phone-hyvh21t6965i7w99](https://user-images.githubusercontent.com/103621682/211145656-0565b0d4-a8a2-4fdb-805c-968d8445c752.jpg)
 ![we-bare-bears-surfing-the-net-eh3w41yu8cqs0a44](https://user-images.githubusercontent.com/103621682/211145531-d814bab2-7c7f-46af-b9e6-9a590e38b5be.jpg)
-https://github.com/beingofexistence/BeingOfExistence/assets/103621682/9318bc3c-1b58-4b9f-8a18-aab1ee06d004
+
+ <video src="https://github.com/beingofexistence/BeingOfExistence/assets/103621682/eddf4de7-6d1d-4d20-85ea-02254ae3fd86.mp4"></video>
+ <video src="https://github.com/beingofexistence/BeingOfExistence/assets/103621682/eddf4de7-6d1d-4d20-85ea-02254ae3fd86.mp4"></video>
 https://github.com/beingofexistence/BeingOfExistence/assets/103621682/eddf4de7-6d1d-4d20-85ea-02254ae3fd86
 https://github.com/beingofexistence/BeingOfExistence/assets/103621682/e6fce838-f6cc-48ab-bf44-fb0397ba5efe
-
+https://github.com/beingofexistence/BeingOfExistence/assets/103621682/9318bc3c-1b58-4b9f-8a18-aab1ee06d004
 
 
 <h1 align="center">Hi 👋, I'm BeingOfExistence</h1>
