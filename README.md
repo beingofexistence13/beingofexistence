@@ -6,12 +6,12 @@
 ![we-bare-bears-surfing-the-net-eh3w41yu8cqs0a44](https://user-images.githubusercontent.com/103621682/211145531-d814bab2-7c7f-46af-b9e6-9a590e38b5be.jpg)
 
 
-<h1 align="center">Hi 👋, I'm ManFromEarth</h1>
+<h1 align="center">Hi 👋, I'm BeingOfExistence</h1>
 <h3 align="center">A programmer who loves to code and I like to contribute on openSource projects</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Hello**
+- 🔭 I’m currently working on **Dx**
 
 - 🌱 I’m currently learning **All software related stuffs**
 
