@@ -1,8 +1,9 @@
-https://github.com/beingofexistence/BeingOfExistence/assets/103621682/eddf4de7-6d1d-4d20-85ea-02254ae3fd86.mp4
- <video src="https://github.com/beingofexistence/BeingOfExistence/assets/103621682/eddf4de7-6d1d-4d20-85ea-02254ae3fd86.mp4"></video>
- <video src="https://github.com/beingofexistence/BeingOfExistence/assets/103621682/eddf4de7-6d1d-4d20-85ea-02254ae3fd86.mp4"></video>
- <video src="https://github.com/beingofexistence/BeingOfExistence/assets/103621682/e6fce838-f6cc-48ab-bf44-fb0397ba5efe.mp4"></video>
- <video src="https://github.com/beingofexistence/BeingOfExistence/assets/103621682/9318bc3c-1b58-4b9f-8a18-aab1ee06d004.mp4"></video>
+https://user-images.githubusercontent.com/103621682/eddf4de7-6d1d-4d20-85ea-02254ae3fd86.mp4
+
+https://user-images.githubusercontent.com/103621682/e6fce838-f6cc-48ab-bf44-fb0397ba5efe.mp4
+
+https://user-images.githubusercontent.com/103621682/9318bc3c-1b58-4b9f-8a18-aab1ee06d004.mp4
+
 
 ![disney-plus](https://user-images.githubusercontent.com/103621682/211145362-eaef93bc-8b4f-45d5-8b93-5bd86a8908df.jpg)
 ![animated](https://user-images.githubusercontent.com/103621682/211145427-e6087434-d7ea-48b8-837b-0b610be67412.jpg)
@@ -11,11 +12,9 @@ https://github.com/beingofexistence/BeingOfExistence/assets/103621682/eddf4de7-6
 ![naruto-shippuden-4k-anime-phone-hyvh21t6965i7w99](https://user-images.githubusercontent.com/103621682/211145656-0565b0d4-a8a2-4fdb-805c-968d8445c752.jpg)
 ![we-bare-bears-surfing-the-net-eh3w41yu8cqs0a44](https://user-images.githubusercontent.com/103621682/211145531-d814bab2-7c7f-46af-b9e6-9a590e38b5be.jpg)
 
-
 <h1 align="center">Hi 👋, I'm BeingOfExistence</h1>
 <h3 align="center">A programmer who loves to code and I like to contribute on openSource projects</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 - 🔭 I’m currently working on **Dx**
 
