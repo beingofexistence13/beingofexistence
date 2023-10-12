@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/103621682/9318bc3c-1b58-4b9f-8a18-aab1
 
 <div align="center">
   <p><b>Profile Views</b></p>
-  <img src="" />
+  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
 </div>
 
 <img src="./assets/borderseparator.gif" width="100%"/>
