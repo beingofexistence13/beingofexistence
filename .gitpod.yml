@@ -1,9 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
 tasks:
-    - name: dx
-      init: |
-          npm install -g npm@10.1.0
-          npm install -g bun
-          git config lfs.https://github.com/beingofexistence/dx.git/info/lfs.locksverify false
-          cd apps/www && bun install && bun run build
-      command: |
-          bun run dev
+  - init: echo 'init script' # replace with your own init script
+  - command: echo 'start script' # replace with your own start script
