@@ -1,6 +1,15 @@
-image:
-  file: .gitpod.Dockerfile
-
 tasks:
-  - init: echo 'init script' # replace with your own init script
-  - command: echo 'start script' # replace with your own start script
+  - name: zig
+    init: ./tools/update-tools.sh
+    command:
+      export PATH=./tools/zig:$PATH
+      && echo "{\"zig_exe_path\":\"$(pwd)/tools/zig/zig\"}" > ~/.config/zls.json
+      && echo
+      && echo workspace start - zig build run ...
+      && ./zig-init-exe-if-missing
+      && zig build run
+
+vscode:
+  extensions:
+    - tiehuis.zig@0.2.5:Yj8BTORJw/zERdoSGPf+eQ==
+    - augusterame.zls-vscode@1.0.4:ZQxqRwcEt9rZuan0J+3BRQ==

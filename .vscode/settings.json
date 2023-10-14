@@ -1,14 +1,3 @@
 {
-    "git.ignoreLimitWarning": true,
-    "css.lint.unknownAtRules": "ignore",
-    "files.associations": {
-        "*.css": "tailwindcss"
-      },
-    "githubPullRequests.ignoredPullRequestBranches": [
-        "master"
-    ],
-    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
-    "cSpell.words": [
-        "beingofexistence"
-    ]
+    "zigLanguageClient.path": "tools/zls/zig-cache/bin/zls"
 }
