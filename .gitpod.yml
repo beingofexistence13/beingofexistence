@@ -8,8 +8,3 @@ tasks:
       && echo workspace start - zig build run ...
       && ./zig-init-exe-if-missing
       && zig build run
-
-vscode:
-  extensions:
-    - tiehuis.zig@0.2.5:Yj8BTORJw/zERdoSGPf+eQ==
-    - augusterame.zls-vscode@1.0.4:ZQxqRwcEt9rZuan0J+3BRQ==
