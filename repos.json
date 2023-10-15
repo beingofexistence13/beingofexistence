@@ -1,5 +1,4 @@
-
-const repos = [
+[
     {
         "title": "dotnet/runtime"
     },
@@ -577,11 +576,3 @@ const repos = [
         "title": "LightTable/LightTable"
     }
 ]
-
-for (let i = 0; i < repos.length; i++) {
-
-    console.log(`"https://github.com/${repos[i].title}"`);
-
-}
-
-// console.log(repos.length)
